@@ -5,7 +5,7 @@
 1. **Vectorización**
    - En este módulo, exploramos la esencia de la vectorización en el procesamiento de lenguaje natural. Se abordaron técnicas para representar palabras y documentos como vectores numéricos, un paso crucial para habilitar el análisis y modelado de texto.
 
-   ![Vectorización](images/vectorizacion.webp)
+   ![Vectorización](PNL CEIA/images/vectorizacion.webp)
 
 2. **Bot de Consulta Abierta y Respuestas con DNN + Spacy**
    - Construimos un bot capaz de manejar consultas abiertas y ofrecer respuestas precisas mediante el uso de redes neuronales profundas (DNN) y la biblioteca de procesamiento de lenguaje natural, Spacy.
