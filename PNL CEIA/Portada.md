@@ -10,24 +10,24 @@
 2. **Bot de Consulta Abierta y Respuestas con DNN + Spacy**
    - Construimos un bot capaz de manejar consultas abiertas y ofrecer respuestas precisas mediante el uso de redes neuronales profundas (DNN) y la biblioteca de procesamiento de lenguaje natural, Spacy.
 
-   ![Bot DNN + Spacy](Procesamiento-natural-del-lenguaje/PNL%20CEIA/images/2 chatbot.webp)
+   ![Bot DNN + Spacy](images/2 chatbot.webp)
 
 3. **Custom Embeddings con Gensim**
    - Utilizando letras de canciones de bandas, generamos embeddings personalizados. Este enfoque permitió que los vectores capturaran la esencia única de cómo las bandas emplean las palabras en sus creaciones artísticas.
 
-   ![Custom Embeddings](Procesamiento-natural-del-lenguaje/PNL%20CEIA/images/3 Gensim.webp)
+   ![Custom Embeddings](images/3 Gensim.webp)
 
 4. **Predicción de Próxima Palabra con Embeddings y LSTM en Keras**
    - Exploramos la creación de embeddings de palabras basados en el contexto de documentos o corpus utilizando la capa Embedding de Keras. Estos embeddings se combinaron con capas LSTM para predecir la siguiente palabra probable en un contexto dado.
 
-   ![Predicción de Próxima Palabra](Procesamiento-natural-del-lenguaje/PNL%20CEIA/images/4 word prediction.jpg)
+   ![Predicción de Próxima Palabra](images/4 word prediction.jpg)
 
 5. **Análisis de Sentimientos con Embeddings + LSTM**
    - Este módulo se centró en analizar el sentimiento en las críticas de compradores de ropa. Utilizando embeddings y capas LSTM, se creó un modelo capaz de evaluar la opinión de los compradores y la puntuación asignada a los productos.
 
-   ![Análisis de Sentimientos](Procesamiento-natural-del-lenguaje/PNL%20CEIA/images/5 Sentiment_Analysis.jpg)
+   ![Análisis de Sentimientos](images/5 Sentiment_Analysis.jpg)
 
 6. **LSTM Bot QA para Conversational Intelligence**
    - Utilizando datos del desafío ConvAI2, desarrollamos un BOT basado en LSTM para responder preguntas de los usuarios. Este proyecto implicó la creación de un modelo capaz de comprender y responder preguntas de manera coherente en conversaciones en inglés.
 
-   ![LSTM Bot QA](Procesamiento-natural-del-lenguaje/PNL%20CEIA/images/6 conversational AI.jpg)
+   ![LSTM Bot QA](images/6 conversational AI.jpg)
